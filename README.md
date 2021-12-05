@@ -15,7 +15,8 @@ Foi implementada em python 3.9, com a visualização feita em pygame.
       Depois ativar o virtualenv:
     * windows:
       ```venv\Scripts\activate.bat```
-    * ```.\venv\lib\activate```
+    * linux:
+      ```.\venv\lib\activate```
 
 3. Atualizar o pip:
 
