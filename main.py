@@ -19,10 +19,8 @@ class App:
         self.comecou = False
 
         self.main_surface = pygame.display.set_mode((1280, 700))
-        self.font = pygame.font.SysFont("fantasquesansmononerdfontmono.ttf", 20)
-        self.initFont = pygame.font.SysFont("fantasquesansmononerdfontmono.ttf", 30)
+        self.font = pygame.font.SysFont("dejavusans", 10)
 
-        self.bg = pygame.image.load("background.jpg").convert()
         self.clock = pygame.time.Clock()
 
         self.queues: List[RoundRobin] = []

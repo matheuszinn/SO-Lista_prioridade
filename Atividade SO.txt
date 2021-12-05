@@ -1,0 +1,7 @@
+## Atividade SO
+> Feito por Matheus Alves Sousa e Silva
+
+O trabalho se encontra no github, além de estar zipado também.
+Para rodar só é necessário ativar o ambiente virtual (./venv/bin/activate) e rodar o arquivo main
+
+Link do github: https://github.com/matheuszinn/SO-Lista_prioridade
