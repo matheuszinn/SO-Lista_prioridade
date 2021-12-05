@@ -16,7 +16,7 @@ Foi implementada em python 3.9, com a visualização feita em pygame.
     * windows:
       ```venv\Scripts\activate.bat```
     * linux:
-      ```.\venv\lib\activate```
+      ```source venv\lib\activate```
 
 3. Atualizar o pip:
 
